@@ -1,0 +1,60 @@
+
+
+body {
+    background-color:lightgrey;
+}
+
+h1 {
+    font-family: cursive
+    font-size: 60px;
+}
+
+h2{
+   font-family: cursive 
+   font-size: 50px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 30px;
+}
+
+@media only screen (max-width: 500px){
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+   
+    @media only screen and (max-width: 500px) {
+    body {
+       background-color: lightgrey; 
+    }
+}    
+    @media only screen and (max-width: 500px) {
+    body {
+       h2{
+   font-family: cursive  
+    }
+} 
+    @media only screen and (max-width: 500px) {
+    body {
+        p {
+    font-family: fantasy;
+    }
+}
+        @media only screen and (max-width: 500px) {
+    body {
+         p{font-size: 20px;
+    }
+}
+       @media only screen and (max-width: 500px) {
+    body {
+        p {
+    padding: 100 30 30 30;
+    }
+    }
+}
+        
+@media only screen and (max-width: 500px) {
+    body {
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    }
+}
